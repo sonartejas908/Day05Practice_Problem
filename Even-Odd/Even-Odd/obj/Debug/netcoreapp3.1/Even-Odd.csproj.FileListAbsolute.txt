@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Even-Odd\Even-Odd\bin\Debug\netcoreapp3.1\Even-Odd.exe
+C:\Users\User\source\repos\Even-Odd\Even-Odd\bin\Debug\netcoreapp3.1\Even-Odd.deps.json
+C:\Users\User\source\repos\Even-Odd\Even-Odd\bin\Debug\netcoreapp3.1\Even-Odd.runtimeconfig.json
+C:\Users\User\source\repos\Even-Odd\Even-Odd\bin\Debug\netcoreapp3.1\Even-Odd.runtimeconfig.dev.json
+C:\Users\User\source\repos\Even-Odd\Even-Odd\bin\Debug\netcoreapp3.1\Even-Odd.dll
+C:\Users\User\source\repos\Even-Odd\Even-Odd\bin\Debug\netcoreapp3.1\Even-Odd.pdb
+C:\Users\User\source\repos\Even-Odd\Even-Odd\obj\Debug\netcoreapp3.1\Even-Odd.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Even-Odd\Even-Odd\obj\Debug\netcoreapp3.1\Even-Odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Even-Odd\Even-Odd\obj\Debug\netcoreapp3.1\Even-Odd.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Even-Odd\Even-Odd\obj\Debug\netcoreapp3.1\Even-Odd.AssemblyInfo.cs
+C:\Users\User\source\repos\Even-Odd\Even-Odd\obj\Debug\netcoreapp3.1\Even-Odd.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Even-Odd\Even-Odd\obj\Debug\netcoreapp3.1\Even-Odd.dll
+C:\Users\User\source\repos\Even-Odd\Even-Odd\obj\Debug\netcoreapp3.1\Even-Odd.pdb
+C:\Users\User\source\repos\Even-Odd\Even-Odd\obj\Debug\netcoreapp3.1\Even-Odd.genruntimeconfig.cache

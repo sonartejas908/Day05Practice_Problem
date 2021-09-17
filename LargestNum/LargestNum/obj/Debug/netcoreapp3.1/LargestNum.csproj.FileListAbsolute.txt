@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\LargestNum\LargestNum\bin\Debug\netcoreapp3.1\LargestNum.exe
+C:\Users\User\source\repos\LargestNum\LargestNum\bin\Debug\netcoreapp3.1\LargestNum.deps.json
+C:\Users\User\source\repos\LargestNum\LargestNum\bin\Debug\netcoreapp3.1\LargestNum.runtimeconfig.json
+C:\Users\User\source\repos\LargestNum\LargestNum\bin\Debug\netcoreapp3.1\LargestNum.runtimeconfig.dev.json
+C:\Users\User\source\repos\LargestNum\LargestNum\bin\Debug\netcoreapp3.1\LargestNum.dll
+C:\Users\User\source\repos\LargestNum\LargestNum\bin\Debug\netcoreapp3.1\LargestNum.pdb
+C:\Users\User\source\repos\LargestNum\LargestNum\obj\Debug\netcoreapp3.1\LargestNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LargestNum\LargestNum\obj\Debug\netcoreapp3.1\LargestNum.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LargestNum\LargestNum\obj\Debug\netcoreapp3.1\LargestNum.AssemblyInfo.cs
+C:\Users\User\source\repos\LargestNum\LargestNum\obj\Debug\netcoreapp3.1\LargestNum.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LargestNum\LargestNum\obj\Debug\netcoreapp3.1\LargestNum.dll
+C:\Users\User\source\repos\LargestNum\LargestNum\obj\Debug\netcoreapp3.1\LargestNum.pdb
+C:\Users\User\source\repos\LargestNum\LargestNum\obj\Debug\netcoreapp3.1\LargestNum.genruntimeconfig.cache
