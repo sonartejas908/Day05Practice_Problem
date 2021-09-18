@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\SwapTwoNum\SwapTwoNum\bin\Debug\netcoreapp3.1\SwapTwoNum.exe
+C:\Users\User\source\repos\SwapTwoNum\SwapTwoNum\bin\Debug\netcoreapp3.1\SwapTwoNum.deps.json
+C:\Users\User\source\repos\SwapTwoNum\SwapTwoNum\bin\Debug\netcoreapp3.1\SwapTwoNum.runtimeconfig.json
+C:\Users\User\source\repos\SwapTwoNum\SwapTwoNum\bin\Debug\netcoreapp3.1\SwapTwoNum.runtimeconfig.dev.json
+C:\Users\User\source\repos\SwapTwoNum\SwapTwoNum\bin\Debug\netcoreapp3.1\SwapTwoNum.dll
+C:\Users\User\source\repos\SwapTwoNum\SwapTwoNum\bin\Debug\netcoreapp3.1\SwapTwoNum.pdb
+C:\Users\User\source\repos\SwapTwoNum\SwapTwoNum\obj\Debug\netcoreapp3.1\SwapTwoNum.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SwapTwoNum\SwapTwoNum\obj\Debug\netcoreapp3.1\SwapTwoNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SwapTwoNum\SwapTwoNum\obj\Debug\netcoreapp3.1\SwapTwoNum.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SwapTwoNum\SwapTwoNum\obj\Debug\netcoreapp3.1\SwapTwoNum.AssemblyInfo.cs
+C:\Users\User\source\repos\SwapTwoNum\SwapTwoNum\obj\Debug\netcoreapp3.1\SwapTwoNum.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SwapTwoNum\SwapTwoNum\obj\Debug\netcoreapp3.1\SwapTwoNum.dll
+C:\Users\User\source\repos\SwapTwoNum\SwapTwoNum\obj\Debug\netcoreapp3.1\SwapTwoNum.pdb
+C:\Users\User\source\repos\SwapTwoNum\SwapTwoNum\obj\Debug\netcoreapp3.1\SwapTwoNum.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Vowel_Constant\Vowel_Constant\bin\Debug\netcoreapp3.1\Vowel_Constant.exe
+C:\Users\User\source\repos\Vowel_Constant\Vowel_Constant\bin\Debug\netcoreapp3.1\Vowel_Constant.deps.json
+C:\Users\User\source\repos\Vowel_Constant\Vowel_Constant\bin\Debug\netcoreapp3.1\Vowel_Constant.runtimeconfig.json
+C:\Users\User\source\repos\Vowel_Constant\Vowel_Constant\bin\Debug\netcoreapp3.1\Vowel_Constant.runtimeconfig.dev.json
+C:\Users\User\source\repos\Vowel_Constant\Vowel_Constant\bin\Debug\netcoreapp3.1\Vowel_Constant.dll
+C:\Users\User\source\repos\Vowel_Constant\Vowel_Constant\bin\Debug\netcoreapp3.1\Vowel_Constant.pdb
+C:\Users\User\source\repos\Vowel_Constant\Vowel_Constant\obj\Debug\netcoreapp3.1\Vowel_Constant.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Vowel_Constant\Vowel_Constant\obj\Debug\netcoreapp3.1\Vowel_Constant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Vowel_Constant\Vowel_Constant\obj\Debug\netcoreapp3.1\Vowel_Constant.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Vowel_Constant\Vowel_Constant\obj\Debug\netcoreapp3.1\Vowel_Constant.AssemblyInfo.cs
+C:\Users\User\source\repos\Vowel_Constant\Vowel_Constant\obj\Debug\netcoreapp3.1\Vowel_Constant.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Vowel_Constant\Vowel_Constant\obj\Debug\netcoreapp3.1\Vowel_Constant.dll
+C:\Users\User\source\repos\Vowel_Constant\Vowel_Constant\obj\Debug\netcoreapp3.1\Vowel_Constant.pdb
+C:\Users\User\source\repos\Vowel_Constant\Vowel_Constant\obj\Debug\netcoreapp3.1\Vowel_Constant.genruntimeconfig.cache
